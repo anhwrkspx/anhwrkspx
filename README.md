@@ -11,7 +11,7 @@
 
  🌱 I’m currently learning **TypeScript**
  
- 🤔 I’m currently learning **Terraform**
+ 🤔 I’m currently learning **Terraform** too
  
  💬 Ask me about **Java, Python, Shell, K8s... or anything <a href="https://github.com/anhwrkspx/anhwrkspx/issues&utextdecoration=none">here</a>**
  
