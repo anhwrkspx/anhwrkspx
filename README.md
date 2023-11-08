@@ -8,8 +8,8 @@
 
 <br/>
 
-<div align="center">
- 
+<div>
+ <p align="left">
  🔭 I’m currently working on **a chat app**
  
  🌱 I’m currently learning **TypeScript**
@@ -17,7 +17,7 @@
  💬 Ask me about **Java, Python, Shell, K8s, AWS, GCP... or anything [here](https://github.com/anhwrkspx/anhwrkspx/issues)**
 
  ⚡ Fun fact **I need some sleeps**
- 
+ </p>
  </div>
  
 <div align="center"> 
