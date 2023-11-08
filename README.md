@@ -8,19 +8,24 @@
 
 <br/>
 
-<div>
+<div align="center">
  <p align="left">
  🔭 I’m currently working on **a chat app**
- 
+ </p>
+ <p align="left">
  🌱 I’m currently learning **TypeScript**
-
+ </p>
+ <p align="left">
  💬 Ask me about **Java, Python, Shell, K8s, AWS, GCP... or anything [here](https://github.com/anhwrkspx/anhwrkspx/issues)**
-
+ </p>
+ <p align="left">
  ⚡ Fun fact **I need some sleeps**
  </p>
  <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU">
- </div>
- <hr/>
+</div>
+
+<hr/>
+
 <div align="center"> 
   <a href="mailto:anhnt.wrkspx@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
