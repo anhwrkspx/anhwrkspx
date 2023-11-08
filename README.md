@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ngo Tuan Anh</h1>
 <h3 align="center">A tech enthusiasm from VietNam</h3>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhwrkspx" alt="anhwrkspx" /></a> </p>
+
+
+
 <img align="right" alt="Coding" width="400" src="https://14555579.fs1.hubspotusercontent-na1.net/hubfs/14555579/Blog%20Images/Blog%20header%20images/What%20Does%20a%20DevSecOps%20Engineer%20Do.png">
+
 - 🔭 I’m currently working on myself🤔
 
 - 🌱 I’m currently learning **TypeScript**
@@ -9,9 +15,6 @@
 - 💬 Ask me about **Java, Python, Shell, K8s, AWS, GCP**
 
 - 📫 How to reach me **anhnt.wrkspx@gmail.com**
-
-- ⚡ Fun fact **I am an NPC**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
