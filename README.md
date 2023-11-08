@@ -16,7 +16,7 @@
  🌱 I’m currently learning **TypeScript**
  </p>
  <p align="left">
- 💬 Ask me about **Java, Python, Shell, K8s, AWS, GCP... or anything [here](https://github.com/anhwrkspx/anhwrkspx/issues)**
+ 💬 Ask me about **Java, Python, Shell, K8s, AWS, GCP... or anything [here]<img src="https://github.com/anhwrkspx/anhwrkspx/issues">**
  </p>
  <p align="left">
  ⚡ Fun fact **I need some sleeps**
