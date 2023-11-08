@@ -18,7 +18,7 @@
 
  ⚡ Fun fact **I need some sleeps**
  </p>
- <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU">
+ <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU">
  </div>
  <hr/>
 <div align="center"> 
