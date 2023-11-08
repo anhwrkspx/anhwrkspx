@@ -7,16 +7,16 @@
 <h3 align="center">A passionate software developer from Viet Nam</h3>
 
 <br/>
-
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU"/>
 <div align="center">
  🔭 I’m currently working on **a chat app**
  
  🌱 I’m currently learning **TypeScript**
  
- 💬 Ask me about **Java, Python, Shell, K8s, AWS, GCP... or anything <a href="https://github.com/anhwrkspx/anhwrkspx/issues&utextdecoration=none">[here]</a>**
+ 💬 Ask me about **Java, Python, Shell, K8s, AWS, GCP... or anything <a href="https://github.com/anhwrkspx/anhwrkspx/issues&utextdecoration=none">here</a>**
  
  ⚡ Fun fact **I need some sleeps**
- <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU">
+ 
 </div>
 
 <hr/>
