@@ -15,7 +15,7 @@
  
  💬 Ask me about **Java, Python, Shell, K8s... or anything <a href="https://github.com/anhwrkspx/anhwrkspx/issues&utextdecoration=none">here</a>**
  
- ⚡ Fun fact **I need some sleeps**
+ ⚡ Fun fact **I'm not that funny🤯**
 </div>
 <div align="left"> 
   <a href="mailto:anhnt.wrkspx@gmail.com">
