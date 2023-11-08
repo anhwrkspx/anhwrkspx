@@ -8,7 +8,7 @@
 
 <br/>
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU"/>
-<div align="center">
+<div align="left">
  🔭 I’m currently working on **a chat app**
  
  🌱 I’m currently learning **TypeScript**
@@ -19,9 +19,8 @@
  
 </div>
 
-<hr/>
 
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:anhnt.wrkspx@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
   <a href="https://linkedin.com/in/anhnt-wrkn" target="_blank">
