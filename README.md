@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anhwrkspx.anhwrkspx" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anhwrkspx" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ngo+Tuan+Anh" />
@@ -15,7 +15,6 @@
  
  💬 Ask me about **Java, Python, Shell, K8s... or anything <a href="https://github.com/anhwrkspx/anhwrkspx/issues&utextdecoration=none">here</a>**
  
- ⚡ Fun fact **I'm not that funny🤯**
 </div>
 <div align="left"> 
   <a href="mailto:anhnt.wrkspx@gmail.com">
