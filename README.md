@@ -40,7 +40,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My Years 🐍</h2>
   <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anhwrkspx/anhwrkspx/animation/github-contribution-grid-snake-dark.svg">
