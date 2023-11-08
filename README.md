@@ -1,9 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anhwrkspx" />
-<hr/>
+
+<br/>
+
+
 <h1 align="center">
     <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&random=false&width=435&lines=Hello+there+!%F0%9F%91%8B;I'm+Ngo+Tuan+Anh" alt="Typing SVG"/>
 </h1>
-
 <h3 align="center">I'm from Viet Nam</h3>
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU"/>
 
