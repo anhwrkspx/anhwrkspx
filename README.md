@@ -35,8 +35,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,java,jenkins,docker,kubernetes,aws,gcp,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,jenkins,docker,kubernetes,aws,gcp,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git" />
+    <br>
 </div>
 
 <br/>
@@ -55,8 +56,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=anhwrkspx&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anhwrkspx&show_icons=true&locale=en&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></p>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=kattni&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=anhwrkspx&show_icons=true&locale=en&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></p>
  <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhwrkspx&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
