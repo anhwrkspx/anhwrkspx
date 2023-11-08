@@ -6,7 +6,6 @@
 
 <h3 align="center">A passionate software developer from Viet Nam</h3>
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU"/>
-<br/>
 
 <div align="left">
  🔭 I’m currently working on ** a website**
