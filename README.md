@@ -8,7 +8,8 @@
 <h3 align="center">I'm from Viet Nam</h3>
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU"/>
 <div align="left">
-    
+<details>
+ <summary>
  💻 I’m currently working on **a website**
 
  🌱 I’m currently learning **TypeScript**
@@ -16,7 +17,8 @@
  🤔 I’m currently learning **Terraform** too
  
  💬 Ask me about **Java, Python, Shell, K8s... or anything <a href="https://github.com/anhwrkspx/anhwrkspx/issues&utextdecoration=none">here</a>**
- 
+ </summary>
+</details>
 </div>
 <div align="left"> 
   <a href="mailto:anhnt.wrkspx@gmail.com">
