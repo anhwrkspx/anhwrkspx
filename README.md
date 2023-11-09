@@ -57,11 +57,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <p>
-   <img src="https://streak-stats.demolab.com?user=anhwrkspx" alt="GitHub Streak" />
-   <img width=390 src="https://github-readme-stats.vercel.app/api?username=anhwrkspx&show_icons=true&locale=en&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="anhwrkspx" />
-  </p>
-   <img width=257 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhwrkspx&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+   <img src="https://github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" alt="anhwrkspx" />
+   <img width=257 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhwrkspx&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px" alt="top langs" />
 </div>
 <br/><br/>
 
