@@ -57,8 +57,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-   <img src="https://github-readme-stats.vercel.app/api/?username=anhwrkspx&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" alt="anhwrkspx" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhwrkspx&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px" alt="top langs" />
+   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=anhwrkspx&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true" height="192px" alt="anhwrkspx" />
+   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=anhwrkspx&langs_count=8&layout=compact&theme=algolia&hide_border=true" height="192px" alt="top langs" />
 </div>
 <br/><br/>
 
