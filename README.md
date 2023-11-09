@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ngo+Tuan+Anh!;" />
 </h1>
 <h3 align="center">I'm from Viet Nam</h3>
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU"/>
 
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU"/>
 <div align="left">
     
  💻 I’m currently working on **a website**
@@ -41,7 +41,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Years 🐍</h2>
+  <h2>🐍 My Year 🐍</h2>
   <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anhwrkspx/anhwrkspx/animation/github-contribution-grid-snake-dark.svg">
