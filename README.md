@@ -1,33 +1,27 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anhwrkspx.anhwrkspx" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ngo+Tuan+Anh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🕺🕺🕺🕺🕺🕺🕺🏌️‍♀️;Hello+there!+👋;+I'm+Ngo+Tuan+Anh!;" />
 </h1>
-<h3 align="center">I'm from Viet Nam</h3>
-
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU"/>
-<div align="left">
-    
- 💻 I’m currently a **freelancer**
- 
-</div>
-<div align="left"> 
+<div align="center"> 
+  <h2 align="center"> 💼 Contact 💼</h2>
   <a href="mailto:anhnt.wrkspx@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
   <a href="https://linkedin.com/in/anhnt-wrkn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
   <a href="https://anhwrkspx.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,bash,jenkins,docker,kubernetes,ansible,aws,gcp,selenium,postman" />
-    <img src="https://skillicons.dev/icons?i=vscode,mysql,html,css,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=bash,jenkins,docker,kubernetes,ansible,aws,gcp,gitlab" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,flask,spring,tensorflow,pytorch,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,figma,html,css,tailwind,mongodb" />
     <br>
 </div>
 
